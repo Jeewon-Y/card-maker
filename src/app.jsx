@@ -19,7 +19,7 @@ function App({ authService }) {
           </Switch>
         </BrowserRouter>
       </div>
-      <Login authService={authService} />
+      
     </>
   );
 }
